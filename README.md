@@ -7,8 +7,19 @@
 
 ## 🔧 Skills
 
-- **Languages & Tools:** Python, SQL, Power BI, Tableau, Excel, Git, GitHub  
-- **Techniques:** Machine Learning (Random Forest, XGBoost, Logistic Regression), Data Cleaning, Visualization, Feature Engineering  
+- **Languages & Tools:** Data & Visualization
+Power BI, Tableau, Excel, PgAdmin
+Dashboard Development
+🧠 Programming & ML
+Python, SQL, Java
+XGBoost, Random Forest, Linear Regression
+Decision tree, Logistic Regression,
+SHAP, Hyperparameter Tuning, SMOTE, Cross-Validation
+🛠 Tools & Frameworks
+Agile, Scrum, Spring Boot, OOP, REST APIs
+🗂 Database & Querying
+PostgreSQL, Oracle, SQL Server
+
 - **Soft Skills:** Adaptability, Teamwork, Communication, Fast Learner
 
 ---
